@@ -1,4 +1,5 @@
 # HeyYah-Game
+ビデオリンク：https://drive.google.com/open?id=1usaKBaGXL5GggqiW6nSb6KJVHg4ZbGJH
 這是關於兩隻蝦子在火鍋裡求生存的遊戲<br>
 兩位玩家必須一邊躲開上面的障礙物一邊避開對方的干擾<br>
 隨著時間的增加
